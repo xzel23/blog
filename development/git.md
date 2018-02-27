@@ -1,6 +1,6 @@
 # Git
 
-[Git](https://git-scm.com) is a [*d*istributed *v*ersion *c*ontrol *s*ystem (DVCS)](https://en.wikipedia.org/wiki/Distributed_version_control).
+[Git](https://git-scm.com) is a [**d**istributed **v**ersion **c**ontrol **s**ystem (DVCS)](https://en.wikipedia.org/wiki/Distributed_version_control).
 
 ## Github
 
@@ -22,3 +22,11 @@
     ```
     git push -u origin master
     ```
+
+## [Jitpack](https://jitpack.io) is an easy to use package repository for Git
+
+Simply add dependencies to your github hosted project, and Jitpack will do a build and supply the artifacts as a Maven repository.
+
+**Bugs of interest:**
+ - [Java 9 support](https://github.com/jitpack/jitpack.io/issues/1592)
+ - [JavaFX is not supported Java 9 builds](https://github.com/jitpack/jitpack.io/issues/2310)
