@@ -21,3 +21,8 @@ The Gradle Wrapper is a version of Gradle that is installed locally inside the p
     ```
     ./gradlew wrapper --gradle-version 4.4.1
     ```
+
+## Gradle plugin for JavaFX
+
+[FibreFox](https://github.com/FibreFoX/javafx-gradle-plugin) is a Gradle plugin for JavaFX.
+
