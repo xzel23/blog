@@ -8,11 +8,16 @@ These are some bugs of interest to me for one reason or the other.
  
 ## Apache POI
 
-## Gradle
+## [Gradle](https://gradle.org/)
 
-## FontAwesomeFX
+### [JavaFX-Gradle-Plugin](https://github.com/FibreFoX/javafx-gradle-plugin)
 
-## Jitpack
+ - [Java 10+ support](https://github.com/FibreFoX/javafx-gradle-plugin/issues/103)
+
+## [FontAwesomeFX](http://www.jensd.de/wordpress/?tag=fontawesomefx)
+ - [CSSParser unavailable in Java 9](https://bitbucket.org/Jerady/fontawesomefx/issues/48/cssparser-unavailable-in-java-9)
+
+## [Jitpack](https://jitpack.io)
 
 I don't know what's the matter with Jitpack. It's a great site, but there seems to be nearly no progress on issues. Preparing to move on to bintray because of this.
 
