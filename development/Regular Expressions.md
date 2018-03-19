@@ -1,5 +1,7 @@
 # Regular Expressions
 
+For in-depth info on regular expressions and differences between regex dialects, read the Wikipedia [article](https://en.wikipedia.org/wiki/Regular_expression) or visist [www.regular-expressions.info](https://www.regular-expressions.info).
+
 ## Predefined Character classes
 
 |Construct|Description|
