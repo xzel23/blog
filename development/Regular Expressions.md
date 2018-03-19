@@ -43,6 +43,15 @@ In code this looks like this:
     }
 ```
 
+For the input String `1.2em` you will get these results:
+
+|expression|value|
+|---|---|
+|input|`"1.2em"`|
+|matcher.matches()|`true`|
+|number|`"1.2"`|
+|unit|`"em"`|
+
 ## Tools
 
  * [Online Test](https://www.freeformatter.com/java-regex-tester.html) for Regular Expressions
