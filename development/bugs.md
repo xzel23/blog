@@ -15,7 +15,7 @@ These are some bugs of interest to me for one reason or the other.
  - [Java 10+ support](https://github.com/FibreFoX/javafx-gradle-plugin/issues/103)
 
 ## [FontAwesomeFX](http://www.jensd.de/wordpress/?tag=fontawesomefx)
- - [CSSParser unavailable in Java 9](https://bitbucket.org/Jerady/fontawesomefx/issues/48/cssparser-unavailable-in-java-9)
+ - [~~CSSParser unavailable in Java 9~~](https://bitbucket.org/Jerady/fontawesomefx/issues/48/cssparser-unavailable-in-java-9): this is fixed in my own [fork](https://github.com/xzel23/fontawesomefx) of the project, binaries are available on [bintray](https://bintray.com/dua3/public).
 
 ## [Jitpack](https://jitpack.io)
 
