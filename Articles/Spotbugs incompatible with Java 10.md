@@ -7,11 +7,10 @@ In case you also have JDK 9 installed, you may want to set `JAVA_HOME` to the JD
  * in `gradle.properties`, either in the `.gradle` directory in your home directory or the project directory, set `org.gradle.java.home=/path_to_jdk_directory`
  
  * in your `build.gradle`:
-    
+
     compileJava.options.fork = true
     compileJava.options.forkOptions.executable = /path_to_javac
 
  * pass the path to the gradle wrapper on the command line:
-   
+
     ./gradlew -Dorg.gradle.java.home=/path_to_jdk_directory
-   
