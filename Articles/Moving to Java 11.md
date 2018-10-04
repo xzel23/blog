@@ -1,4 +1,4 @@
-# Moving on to Java 11
+# Moving to Java 11
 
 Now that Java 11 is there, I am upgrading all my personal projects to the new version. There are several reasons to do so:
 
